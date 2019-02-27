@@ -13,7 +13,7 @@
 | chocorite-TIL | |
 | ---- | ---- |
 |`├── README.md`|このドキュメント|
-|`├── previous-experient.md`|学習開始までの経験|
+|`├── previous-experience.md`|学習開始までの経験|
 |`├── 00-TIL-journal`|日々の記録|
 |`│   ├── 2019-02-25.md`|日付.md|
 |`│   └── 2019-02-27.md`||
